@@ -1,0 +1,142 @@
+[
+  {
+    "path": "demo/Ses05F_impro02_00038.00_tgtM/acoustic_vap_video.mp4",
+    "bytes": 152663,
+    "sha256": "b93f07028e6e3277caf517c3619850f7ea71459898c20163d4b78f5a82769d6b"
+  },
+  {
+    "path": "demo/Ses05F_impro02_00038.00_tgtM/baseline_video.mp4",
+    "bytes": 151956,
+    "sha256": "bded7120cd8fc51e32b749b096fa127b72287fbc060ecc5847c6234b290c5482"
+  },
+  {
+    "path": "demo/Ses05F_impro02_00038.00_tgtM/group1.png",
+    "bytes": 273684,
+    "sha256": "efd9c300b7a811d4f649ba9b433039309189c7df24cf5c8fdea73b4031c93ea1"
+  },
+  {
+    "path": "demo/Ses05F_impro02_00038.00_tgtM/group1_target_aligned.png",
+    "bytes": 286656,
+    "sha256": "c4aeb1483946a1d4a5b748bad6405415735e0d749416dd3b2963f73b222009a9"
+  },
+  {
+    "path": "demo/Ses05F_impro02_00038.00_tgtM/miniomni_vap_video.mp4",
+    "bytes": 152893,
+    "sha256": "b36702a922cb007f6ee56cc89bcd96a4bffa5200a5f7382325b3192caa076aab"
+  },
+  {
+    "path": "demo/Ses05F_impro02_00038.00_tgtM/mixture_video.mp4",
+    "bytes": 149606,
+    "sha256": "a6da0eee4c046720e24b5e31ec96279181dacbdb9164d5c45461ff24841f60ec"
+  },
+  {
+    "path": "demo/Ses05F_impro02_00038.00_tgtM/target_gt_video.mp4",
+    "bytes": 142034,
+    "sha256": "eed650184845fc626818afd622a23ab1dc2644ec9bbd099637794f1bfc3ae29c"
+  },
+  {
+    "path": "demo/Ses05F_impro02_00038.00_tgtM/video_poster.jpg",
+    "bytes": 3897,
+    "sha256": "face373f859a5dd21643ffa61017eb35d87eb28a8d3e68a14ac6cb203aa2e5e5"
+  },
+  {
+    "path": "demo/Ses05F_impro04_00278.00_tgtM/acoustic_vap_video.mp4",
+    "bytes": 125947,
+    "sha256": "4a0baea6ad36aa7be56b96b13d2ae4c8445c074c63d6a0144d3ff5a96e44794a"
+  },
+  {
+    "path": "demo/Ses05F_impro04_00278.00_tgtM/baseline_video.mp4",
+    "bytes": 126448,
+    "sha256": "3b351c964627039180eabc44b0c1dcdd4c0561c0525258592b6d5318b1a89fb8"
+  },
+  {
+    "path": "demo/Ses05F_impro04_00278.00_tgtM/group1.png",
+    "bytes": 218679,
+    "sha256": "0eac1eaccf29bd1bb99088993a6574fbac3451adf875e8d5b6be7d6bf84e1b58"
+  },
+  {
+    "path": "demo/Ses05F_impro04_00278.00_tgtM/group1_target_aligned.png",
+    "bytes": 222561,
+    "sha256": "829e970faa68e6a65dc88cb2fe2d8b498a906e8a04c1ef94d13b5e4b13e02c91"
+  },
+  {
+    "path": "demo/Ses05F_impro04_00278.00_tgtM/miniomni_vap_video.mp4",
+    "bytes": 125112,
+    "sha256": "96b63e33a5dc3a6cd2020d7530981320dd773bb74deb1aa672a3e32e15028afb"
+  },
+  {
+    "path": "demo/Ses05F_impro04_00278.00_tgtM/mixture_video.mp4",
+    "bytes": 133972,
+    "sha256": "da7a42833a0f2fec0fbc7182e49df96cd67a2652804ab9dca854cc70038aeaa4"
+  },
+  {
+    "path": "demo/Ses05F_impro04_00278.00_tgtM/target_gt_video.mp4",
+    "bytes": 97128,
+    "sha256": "c494ed5997d51ff04e4d5f01d21afe81044b74714c7537f384d6fbaa81663de3"
+  },
+  {
+    "path": "demo/Ses05F_impro04_00278.00_tgtM/video_poster.jpg",
+    "bytes": 3786,
+    "sha256": "8c1f497b758412d810bab3e89f73acea93d19aa89be6c2602387e36674a84bf2"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/asd_miniomni_video.mp4",
+    "bytes": 129505,
+    "sha256": "9a458cbf68f8dd05b6ab90ca49209581b249060188b79a9fe7866fcbfa3927f2"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/asd_video.mp4",
+    "bytes": 131844,
+    "sha256": "9e9712ac87b378de14d940b123160ea8749f449558fe684855f95ede30df034d"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/baseline_video.mp4",
+    "bytes": 131529,
+    "sha256": "8c6a208829e17b5287f673ad106469173b5fd28c44d5b4d6a08a8ba97539c82c"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/context_grid.png",
+    "bytes": 330957,
+    "sha256": "8cb943fe2413f04cec751b225d1059bc2fc9e6ff16531e62ac7859e9d331d611"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/context_grid_target_aligned.png",
+    "bytes": 332611,
+    "sha256": "0f780c677389f96c2d31b5281d1150278b0051d47e99cf4a5ed38a6dfc725296"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/mixture_video.mp4",
+    "bytes": 135738,
+    "sha256": "4699b3b94dc5f1631d9a210d679a5537cadd860b2129e85b27bcabf363727968"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/self_memory_asd_miniomni_video.mp4",
+    "bytes": 129333,
+    "sha256": "56762047b943d489910a2309e0f2ef83f5ac02b5580bdb57ce85356461231c10"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/self_memory_asd_video.mp4",
+    "bytes": 131436,
+    "sha256": "954a0e31d0c2544de01067531f6dbba4d3253e4ffdfd3eb75d628f5ee32cfd68"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/self_memory_miniomni_video.mp4",
+    "bytes": 132604,
+    "sha256": "aeebb0856caffd8cd7d75733aa195271c88de87df378f69fc3e564dd20c944d0"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/self_memory_video.mp4",
+    "bytes": 132950,
+    "sha256": "d03e05da6204d46040107e5985060d0bbcb07045a902845f892427d8734a180e"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/target_gt_video.mp4",
+    "bytes": 95787,
+    "sha256": "4b668d844a152b97426f356edcac852c1dffa418194bd1623967212f7df2ed13"
+  },
+  {
+    "path": "demo/Ses05F_script03_1_00162.00_tgtF/video_poster.jpg",
+    "bytes": 4102,
+    "sha256": "89ebcf6afc598b0c4d47419a5df57ec95d06acd1a1ca39f1cc080bf175c6a8b0"
+  }
+]
