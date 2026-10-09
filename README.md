@@ -1,6 +1,3 @@
-# TS-VAP
+# TS-VAP Speech Extraction Demo
 
-The [combined speech extraction demo](https://jjjjiaozi.github.io/TS-VAP/) includes IEMOCAP and RealTalk examples in a two-column layout on wide screens.
-
-- [IEMOCAP speech extraction demo](https://jjjjiaozi.github.io/TS-VAP/demo/)
-- [RealTalk speech extraction demo](https://jjjjiaozi.github.io/TS-VAP/realtalk/)
+[Open the combined demo](https://jjjjiaozi.github.io/TS-VAP/).
