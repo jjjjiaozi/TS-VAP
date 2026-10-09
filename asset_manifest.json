@@ -138,5 +138,190 @@
     "path": "demo/Ses05F_script03_1_00162.00_tgtF/video_poster.jpg",
     "bytes": 4102,
     "sha256": "89ebcf6afc598b0c4d47419a5df57ec95d06acd1a1ca39f1cc080bf175c6a8b0"
+  },
+  {
+    "path": "realtalk/row0206_xR8stNsbRR4_p0/acoustic_vap_video.mp4",
+    "bytes": 393341,
+    "sha256": "2fcdfc8af5e0c99a3846c103040ba1ca809829e5c2186b317ee889286b7f33dc"
+  },
+  {
+    "path": "realtalk/row0206_xR8stNsbRR4_p0/baseline_video.mp4",
+    "bytes": 395632,
+    "sha256": "2518fc289a38ed30423a2c839181bcb341cf1b98a3ff763a3dc7a62c73a38626"
+  },
+  {
+    "path": "realtalk/row0206_xR8stNsbRR4_p0/miniomni_vap_video.mp4",
+    "bytes": 393057,
+    "sha256": "f73201af01c75f569581afda1278d7f2af3e5d3f12736a988069ac2d7699febb"
+  },
+  {
+    "path": "realtalk/row0206_xR8stNsbRR4_p0/mixture_video.mp4",
+    "bytes": 394530,
+    "sha256": "d0da8ba060b9e9435355e7e6b14530577cdfee5abad2a649a84028697a0ef082"
+  },
+  {
+    "path": "realtalk/row0206_xR8stNsbRR4_p0/target_gt_video.mp4",
+    "bytes": 367107,
+    "sha256": "e233ea8c819e33e152cecdde1034d17ef612ccd5b38df49939f26bcb3f162256"
+  },
+  {
+    "path": "realtalk/row0206_xR8stNsbRR4_p0/video_poster.jpg",
+    "bytes": 18793,
+    "sha256": "187d9eabfa36f53cc88fa52f0d817946ad1ac6921a9f6a9a95650775d1f009d7"
+  },
+  {
+    "path": "realtalk/row0206_xR8stNsbRR4_p0/waveform_aligned.png",
+    "bytes": 105116,
+    "sha256": "6e791e30a08c67fed2694e0c40d0d7b8b634aec1f1d353a2b877f89720007afe"
+  },
+  {
+    "path": "realtalk/row0206_xR8stNsbRR4_p0/waveform_original.png",
+    "bytes": 102283,
+    "sha256": "d29d519193db716d1f6c7b6fe9adcd37db1392cd18a335d6a2cac74954e536d0"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/asd_miniomni_video.mp4",
+    "bytes": 231731,
+    "sha256": "0045e8cd717e9c5fb2b7270cfe77f22ca46a63291ea2208c87cf870d6dd7d15a"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/asd_video.mp4",
+    "bytes": 231779,
+    "sha256": "0a0756e98f5b66be7600d147e337e7055a58f06a3cb278088e5cc866ff64a86a"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/baseline_video.mp4",
+    "bytes": 230419,
+    "sha256": "2a6465c0dcb8f9ac900b32db261d026d6839af57dd07e162727b0dec3a7ab97c"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/mixture_video.mp4",
+    "bytes": 233025,
+    "sha256": "042c56bee29cb7d1169460f957bd752c72ef19428627f1ada65693bd1ebc95a2"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/self_memory_asd_miniomni_video.mp4",
+    "bytes": 231251,
+    "sha256": "dd5651c69d0f0cf9f7e8fd9fa7e01934a495dad64ce427a0208d1007223268d0"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/self_memory_asd_video.mp4",
+    "bytes": 231455,
+    "sha256": "a3ae903386d4c492da5674d3ec9c39b4fdc5c5fbac75105f3b880e8f9853f9de"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/self_memory_miniomni_video.mp4",
+    "bytes": 231817,
+    "sha256": "54d8c15c1966a661dabf60ae14bb832a83b2d0050735b19f0ec48c8b636da4b8"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/self_memory_video.mp4",
+    "bytes": 231160,
+    "sha256": "207a1db2aa0bd7ffc47330c14ba14ddf8b32f692c20c8bf69f3ac5c3578a0e75"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/target_gt_video.mp4",
+    "bytes": 206703,
+    "sha256": "05ef6b48b2ab92b894a0c5d91fd2502a6eafe8baa7aabf6938d1b59d44cdcbfd"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/video_poster.jpg",
+    "bytes": 10827,
+    "sha256": "6f153704265e63fc37fd8c364ceb47efc4804c876614221c2fbaaad9b3473e8d"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/waveform_aligned.png",
+    "bytes": 197653,
+    "sha256": "387749c28759ed4b40c094b8a52c6101d2197b743e973d22d914a1be7e166189"
+  },
+  {
+    "path": "realtalk/row0247_HNfSUrzHYLM_p1/waveform_original.png",
+    "bytes": 193529,
+    "sha256": "abc8aba3dda1a726ac3c1896266f2f80a31b0b3986c843963425acd04b403b12"
+  },
+  {
+    "path": "realtalk/row0520_8Zpvyor9Cjk_p1/baseline_video.mp4",
+    "bytes": 367228,
+    "sha256": "de25f7da38b4420a3cc3dd22c2dffd79de6baad0d3ef6306974a302d3de01fc1"
+  },
+  {
+    "path": "realtalk/row0520_8Zpvyor9Cjk_p1/mixture_video.mp4",
+    "bytes": 367628,
+    "sha256": "01a777c0537c01adf1e43e83e284a734c8bf0567b42d9c31c30ea6fd82f7248e"
+  },
+  {
+    "path": "realtalk/row0520_8Zpvyor9Cjk_p1/self_memory_asd_miniomni_video.mp4",
+    "bytes": 367659,
+    "sha256": "b4b13019391e0a9811492b107d105bb65a9564debbafd22c2c4bf5b013f70081"
+  },
+  {
+    "path": "realtalk/row0520_8Zpvyor9Cjk_p1/self_memory_miniomni_video.mp4",
+    "bytes": 367575,
+    "sha256": "141bdd1a3a2f09bb9d20fbaa3c47308d9ffb47ea1ce2be71b0e400aa849ab436"
+  },
+  {
+    "path": "realtalk/row0520_8Zpvyor9Cjk_p1/self_memory_video.mp4",
+    "bytes": 367457,
+    "sha256": "9bcd729dbab6dbf73f7b9040e3f1a2d9c6b4231c19108eb0b463703f9aee172c"
+  },
+  {
+    "path": "realtalk/row0520_8Zpvyor9Cjk_p1/target_gt_video.mp4",
+    "bytes": 335089,
+    "sha256": "929291bc00f783896d4ab9b3327af76f9cb5da02589c435cbab012b4cedda4b0"
+  },
+  {
+    "path": "realtalk/row0520_8Zpvyor9Cjk_p1/video_poster.jpg",
+    "bytes": 24141,
+    "sha256": "af4df6de25a42949afe7548f134d8b7ee733133e7c94c144a26ecb92bc374621"
+  },
+  {
+    "path": "realtalk/row0520_8Zpvyor9Cjk_p1/waveform_aligned.png",
+    "bytes": 118235,
+    "sha256": "8ed6e45fcfc1bc9e5254fa06ecc1994b8a62b54c529d9031428b42b76667b5da"
+  },
+  {
+    "path": "realtalk/row0520_8Zpvyor9Cjk_p1/waveform_original.png",
+    "bytes": 116034,
+    "sha256": "18e64932628e8254b02f4a793cf47074ba59f14f48aadbec4890551248d35ec6"
+  },
+  {
+    "path": "realtalk/row0562_26J5zRzQkOg_p0/acoustic_vap_video.mp4",
+    "bytes": 257014,
+    "sha256": "32c9f54cffafe4983d0827ced698292a7ab117b00d5e927d594ac79040eabbd6"
+  },
+  {
+    "path": "realtalk/row0562_26J5zRzQkOg_p0/baseline_video.mp4",
+    "bytes": 257967,
+    "sha256": "2aea88aec16fa31b9efd2e52fd810ebd49b1855d5fbd8320b50db8f2ec9de983"
+  },
+  {
+    "path": "realtalk/row0562_26J5zRzQkOg_p0/miniomni_vap_video.mp4",
+    "bytes": 257899,
+    "sha256": "2b3511ecedd7725be140b322790e5f367f4a5c635395875fcec5eafa85bda231"
+  },
+  {
+    "path": "realtalk/row0562_26J5zRzQkOg_p0/mixture_video.mp4",
+    "bytes": 257009,
+    "sha256": "a3bca6e320b4fffa6352538077d1ce401504dd1d14e57665b532acec5f529b23"
+  },
+  {
+    "path": "realtalk/row0562_26J5zRzQkOg_p0/target_gt_video.mp4",
+    "bytes": 221800,
+    "sha256": "c2abdcc55e86ca88621d825948ab3de275c4127da545bf5811a487318191ccdc"
+  },
+  {
+    "path": "realtalk/row0562_26J5zRzQkOg_p0/video_poster.jpg",
+    "bytes": 15296,
+    "sha256": "599e856c33e05e6b7e8f72c2e151f0f4bcf1110401f9447f2ed87b711dcca999"
+  },
+  {
+    "path": "realtalk/row0562_26J5zRzQkOg_p0/waveform_aligned.png",
+    "bytes": 111285,
+    "sha256": "138d43939104fd67142eddc011a63bcd1a11f0ed57f371e43523f14b4cd687da"
+  },
+  {
+    "path": "realtalk/row0562_26J5zRzQkOg_p0/waveform_original.png",
+    "bytes": 108273,
+    "sha256": "d3df3ef912fd1aab45aed3c9138293d64cd83bb0f39a2095fa00d72f82a6be02"
   }
 ]
