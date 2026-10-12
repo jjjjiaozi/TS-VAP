@@ -560,6 +560,11 @@
     "sha256": "4dc3c27cb847ed65762a4cf2fd6dd3ba36bb1ab8cb8876da5ebb26a616d30b34"
   },
   {
+    "path": "seamless/si_V00_S0030_I00000126_P0046_00139.48/partner_video.mp4",
+    "bytes": 1666918,
+    "sha256": "8512999de8bda1bab75ddb1f53c5784b363dda9d9c00a92f1f15a088385fbc20"
+  },
+  {
     "path": "seamless/si_V00_S0030_I00000126_P0046_00139.48/self_memory_asd_miniomni_video.mp4",
     "bytes": 716914,
     "sha256": "805c60b12969437c38d08ca57fecee72e31962775c74e34b80285ff5a0a2cb69"
@@ -615,6 +620,11 @@
     "sha256": "b64823b310fd2510f3e96df7231bf3b0425fccecd0dd54f4c34669b891c6dcbc"
   },
   {
+    "path": "seamless/si_V00_S0393_I00000477_P0523_00085.08/partner_video.mp4",
+    "bytes": 436136,
+    "sha256": "8d7dd3edc230d97b5f778382e9ca15b659b5aff66eb2bb474c993c3e73cdd91b"
+  },
+  {
     "path": "seamless/si_V00_S0393_I00000477_P0523_00085.08/target_gt_video.mp4",
     "bytes": 597409,
     "sha256": "a0d39c2c97fe82555ef706fce03ebbf895e960e8ceed8000b136a9dacbf0f1d0"
@@ -650,6 +660,11 @@
     "sha256": "40d2bc6d5b5f911820e387c3ff394a850888fef2b933b025a0c02a71e37a3ab4"
   },
   {
+    "path": "seamless/si_V01_S1823_I00000639_P2639_00077.76/partner_video.mp4",
+    "bytes": 763309,
+    "sha256": "dc12916cfb71fbbfcd91f1b0d1b3123ba511de5e32969ba909e8cab8a354bb08"
+  },
+  {
     "path": "seamless/si_V01_S1823_I00000639_P2639_00077.76/target_gt_video.mp4",
     "bytes": 1356834,
     "sha256": "d0b743a16bcb234ff25ec1eed231d23c0a284f6247ff4fa9be2cbf3ea3bb3568"
@@ -683,6 +698,11 @@
     "path": "seamless/si_V03_S0871_I00000108_P2967_00226.48/mixture_video.mp4",
     "bytes": 2048663,
     "sha256": "e2bff4a36b18934c22bdba35a87c0d39bafaac4438a972aa100e6861c1c34296"
+  },
+  {
+    "path": "seamless/si_V03_S0871_I00000108_P2967_00226.48/partner_video.mp4",
+    "bytes": 930176,
+    "sha256": "7676aa7c4ef98dae6b7ab773727eccdf841d34623d6e9ad42df9c289a706a166"
   },
   {
     "path": "seamless/si_V03_S0871_I00000108_P2967_00226.48/target_gt_video.mp4",
